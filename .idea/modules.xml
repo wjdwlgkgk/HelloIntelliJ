@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/HelloIntelliJ.iml" filepath="$PROJECT_DIR$/HelloIntelliJ.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eng/eng.iml" filepath="$PROJECT_DIR$/eng/eng.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hi/hi.iml" filepath="$PROJECT_DIR$/hi/hi.iml" />
+    </modules>
+  </component>
+</project>
